@@ -1,12 +1,6 @@
 # FitTrack — Personal Gym Workout Tracker (MERN Stack)
 
-## ⚠️ Before you do anything else
 
-Your `server/.env` file in this zip already contains your **real MongoDB Atlas connection string**, including your username and password. This is convenient for you right now, but:
-
-- **Never commit `.env` to GitHub** (`.gitignore` already excludes it, so `git add .` won't pick it up — just don't force-add it).
-- **Never share this zip file publicly** as-is, since it contains live database credentials.
-- Since this password was shared in a chat conversation, it's a good idea to **rotate it in Atlas** (Database Access → Edit User → Edit Password) once you're done testing.
 
 ## Folder structure
 ```
